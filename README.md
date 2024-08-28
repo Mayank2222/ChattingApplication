@@ -1,6 +1,6 @@
 # INTRODUCTION 
 
-➤ Chatting Application is a desktop-based application. 
+    ➤ Chatting Application is a desktop-based application. 
 
 ➤ This client-server chat application is based on Java Swing and uses a socket package. it is simple and easy and requires only core Java knowledge.
 
