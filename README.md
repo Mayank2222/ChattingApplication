@@ -40,11 +40,17 @@ Programming Language: Java and SOCKET PROGRAMMING
 
 ᐅ SERVER SIDE 
 
+![image](https://github.com/user-attachments/assets/3348aad4-4e6b-4aff-a61a-9a0bf5d8d34c)
+
 
 ᐅ CLIENT SIDE
 
+![image](https://github.com/user-attachments/assets/aa32da90-2780-43ac-a366-ac36ac61bc9f)
 
 
 ᐅ SERVER-CLIENT SIDE
 
+![image](https://github.com/user-attachments/assets/ec6cbe9d-52b4-4b07-bee7-c6643f923b00)
+
+![image](https://github.com/user-attachments/assets/dcae8a76-7e75-4918-88dd-6b61f13e83d8)
 
